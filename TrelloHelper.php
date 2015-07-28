@@ -10,12 +10,12 @@ class TrelloHelper
     /**
      * @var string Clé pour accéder à l'API de Trello
      */
-    const KEY_APP = '7842bd0dbfbaa834640d2af8618de468';
+    const KEY_APP = '';
 
     /**
      * @var string Token pour identifer un compte dans l'API de Trello
      */
-    const TOKEN_APP = 'c7f4c068347576a218f6e1fd257ff93e5eca482b86260e2e2aa1fb2bc177e580';
+    const TOKEN_APP = '';
 
     /**
      * Fonction permettant de récupérer les lists d'une board
